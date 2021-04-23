@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\noham\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add @openzeppein/contracts
+
+PATH: 
+  C:\Program Files\Python310\Scripts\;C:\Program Files\Python310\;C:\Users\noham\Desktop\Scripts\;C:\Users\noham\Desktop\;C:\Users\noham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Users\noham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\Include\cytoolz;C:\Users\noham\.dotnet\tools;C:\Users\noham\AppData\Roaming\npm
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  14.16.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/@openzeppein%2fcontracts: Not found
+      at Request.params.callback [as _callback] (C:\Users\noham\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:66988:18)
+      at Request.self.callback (C:\Users\noham\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:140662:22)
+      at Request.emit (events.js:315:20)
+      at Request.<anonymous> (C:\Users\noham\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:141634:10)
+      at Request.emit (events.js:315:20)
+      at IncomingMessage.<anonymous> (C:\Users\noham\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:141556:12)
+      at Object.onceWrapper (events.js:421:28)
+      at IncomingMessage.emit (events.js:327:22)
+      at endReadableNT (internal/streams/readable.js:1327:12)
+      at processTicksAndRejections (internal/process/task_queues.js:80:21)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
